@@ -3,10 +3,10 @@
 __I'm Greg and I'm a junior frontend developer 😸__
 
 __BIO__
-- 🏢 I'm currently taking an internship at [beeanco]('https://beeanco.com'). 
+- 🏢 I'm currently taking an internship at [beeanco](https://beeanco.com). 
 - ⚙️ I use daily: `.js`, `.html`, `.css`, `.svelte`,
 - 🌱 I’m currently learning React and Svelte, and absorb anything new about JavaScript along the way 😺
-- 🐶 I am passionate about dogs, so whenever I'm not coding, I'm spending some quality time with my doggo 🐕 😄
+- 🐶 I am passionate about dogs, so whenever I'm not coding, I'm spending some quality time with my doggo 🐕 🌲 🏞️ 
 - 📫 How to reach me: 
   + E-mail: grzegorzxpatyk@gmail.com
   + LinkedIn:  www.linkedin.com/in/grzegorz-patyk
