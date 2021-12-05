@@ -10,6 +10,7 @@ __BIO__
 - 📫 How to reach me: 
   + E-mail: grzegorzxpatyk@gmail.com
   + LinkedIn:  www.linkedin.com/in/grzegorz-patyk
+- 📄 [My resume](https://grzegorzp4tyk.github.io/my-resume/)(done in React 😄 - ready to be printed out 🖨️) 
 - ⚡ Fun fact: I 🖤 Harry Potter 
 
 <!--
