@@ -3,7 +3,7 @@
 __I'm Greg and I'm a junior frontend developer 😸__
 
 __BIO__
-- 🏢 I'm currently taking an internship at [beeanco](https://www.beeanco.com). 
+- 🏢 I'm currently taking an internship at <a href="https://www.beeanco.com" target="_blank">beeanco</a>. 
 - ⚙️ I use daily: `js`, `html`, `css`, `sass`, `svelte`, `php`, `wordpress`
 - 🌱 I’m currently learning React and Svelte, and absorb anything new about JavaScript along the way 😺
 - 🐶 I am passionate about dogs, so whenever I'm not coding, I'm spending some quality time with my doggo 🐕 🌲 🏞️ 
@@ -26,4 +26,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[beeanco](https://www.beeanco.com)
 -->
