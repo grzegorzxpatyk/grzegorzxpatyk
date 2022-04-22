@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hello there 👋
 
-__I'm Greg and I'm a junior frontend developer 😸__
+__I'm Greg and I'm a frontend developer 😸__
 
 __BIO__
 - 🏢 I'm currently ~~taking an internship at <a href="https://www.beeanco.com" target="_blank">beeanco</a>~~ working as a junior frontend developer at <a href="https://www.altenpolska.pl/en" target="_blank">ALTEN Poland</a>. 
