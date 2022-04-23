@@ -1,30 +1,30 @@
-### Hello there 👋
+Hi 👋 My name is Greg
+=====================
+Frontend Developer
+------------------
+Creative Front End Developer taking first steps in software development industry. Trained architect, self-taught software developer. Wishing to bring my problem solving and analytical thinking skills from architecture into web development business. Passionate about design, architecture, snowboarding and dogs 🐶
 
-__I'm Greg and I'm a frontend developer 😸__
+* 🌍  I'm based in Cracow, PL
+* ✉️  You can contact me at [grzegorzxpatyk@gmail.com](mailto:grzegorzxpatyk@gmail.com)
+* 🚀  I'm currently working on [image-search-app](http://grzegorzp4tyk.github.io/image-search-app/)
+* 🧠  I'm learning React.js and Redux
+* 🤝  I'm open to collaborating on anything that's interesting. Open for new challenges, hit me up!
 
-__BIO__
-- 🏢 I'm currently ~~taking an internship at <a href="https://www.beeanco.com" target="_blank">beeanco</a>~~ working as a junior frontend developer at <a href="https://www.altenpolska.pl/en" target="_blank">ALTEN Poland</a>. 
-- ⚙️ I use daily: `js`, `html`, `css`, `sass`, `svelte`, `react`, `php`, `sql` and `wordpress`
-- 🌱 I’m currently learning React and absorb anything new about JavaScript along the way 😺
-- 🐶 I am passionate about dogs, so whenever I'm not coding, I'm spending some quality time with my doggo 🐕 🌲 🏞️ 
-- 📫 How to reach me: 
-  + E-mail: grzegorzxpatyk@gmail.com
-  + LinkedIn:  www.linkedin.com/in/grzegorz-patyk
-- 📄 [My resume](https://grzegorzp4tyk.github.io/my-resume/) (done in React.js ⚛️ and deployed to GitHub Pages - ready to be printed out 🖨️) 
-- ⚡ Fun fact: I 🖤 Harry Potter 
+### Skills
 
-<!--
-**grzegorzp4tyk/grzegorzp4tyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://svelte.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/svelte-colored.svg" width="36" height="36" alt="Svelte" /></a><a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a><a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a></p>
 
-Here are some ideas to get you started:
+### Socials
+<p align="left"> <a href="https://www.github.com/grzegorzp4tyk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/grzegorz-patyk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/17349882/grzegorz-patyk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/GregCodes_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-[beeanco](https://www.beeanco.com)
--->
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/grzegorzp4tyk"><img src="https://github-readme-stats.vercel.app/api?username=grzegorzp4tyk&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="grzegorzp4tyk's GitHub stats" /></a>
+
+<a href="http://www.github.com/grzegorzp4tyk"><img src="https://github-readme-streak-stats.herokuapp.com/?user=grzegorzp4tyk&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/grzegorzp4tyk"><img src="https://activity-graph.herokuapp.com/graph?username=grzegorzp4tyk&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/grzegorzp4tyk" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grzegorzp4tyk&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
