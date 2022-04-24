@@ -9,6 +9,7 @@ Creative Front End Developer taking first steps in software development industry
 * 🚀  I'm currently working on [image-search-app](http://grzegorzp4tyk.github.io/image-search-app/)
 * 🧠  I'm learning React.js and Redux
 * 🤝  I'm open to collaborating on anything that's interesting. Open for new challenges, hit me up!
+* 📄  [My resume](https://grzegorzp4tyk.github.io/my-resume/) (done in React.js ⚛️ and deployed to GitHub Pages - ready to be printed out on A4 format 🖨️) 
 
 ### Skills
 
