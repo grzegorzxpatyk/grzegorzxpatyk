@@ -6,7 +6,7 @@ Creative Front End Developer taking first steps in software development industry
 
 * 🌍  I'm based in Cracow, PL
 * ✉️  You can contact me at [grzegorzxpatyk@gmail.com](mailto:grzegorzxpatyk@gmail.com)
-* 🚀  I'm currently working on [image-search-app](http://grzegorzxpatyk.github.io/image-search-app/)
+* 🚀  I'm currently working on [accounting-frontend-react](https://github.com/grzegorzxpatyk/accounting-frontend-react)
 * 🧠  I'm learning React.js and Redux
 * 🤝  I'm open to collaborating on anything that's interesting. Open for new challenges, hit me up!
 * 📄  [My resume](https://grzegorzxpatyk.github.io/my-resume/) (done in React.js ⚛️ and deployed to GitHub Pages - ready to be printed out on A4 format 🖨️) 
