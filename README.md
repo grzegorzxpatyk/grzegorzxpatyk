@@ -2,8 +2,7 @@ Hi 👋 My name is Greg
 =====================
 Frontend Developer
 ------------------
-Creative Front End Developer taking first steps in software development industry. Trained architect, self-taught software developer. Wishing to bring my problem solving and analytical thinking skills from architecture into web development business. Passionate about design, architecture, snowboarding and dogs 🐶
-
+Creative Front End Developer with more than two year experience in software development industry. Trained architect, self-taught software developer. Bringing my problem solving and analytical thinking skills from architecture into web development. Passionate about design, architecture, snowboarding and dogs 🐶
 * 🌍  I'm based in Cracow, PL
 * ✉️  You can contact me at [grzegorzxpatyk@gmail.com](mailto:grzegorzxpatyk@gmail.com)
 * 🚀  I'm currently working on [accounting-frontend-react](https://github.com/grzegorzxpatyk/accounting-frontend-react)
