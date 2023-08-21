@@ -5,8 +5,8 @@ Frontend Developer
 Creative Front End Developer with more than two year experience in software development industry. Trained architect, self-taught software developer. Bringing my problem solving and analytical thinking skills from architecture into web development. Passionate about design, architecture, snowboarding and dogs 🐶
 * 🌍  I'm based in Cracow, PL
 * ✉️  You can contact me at [grzegorzxpatyk@gmail.com](mailto:grzegorzxpatyk@gmail.com)
-* 🚀  I'm currently working on [accounting-frontend-react](https://github.com/grzegorzxpatyk/accounting-frontend-react)
-* 🧠  I'm learning TypeScript, React.js and Redux, and constantly revisiting JavaScript fundamentals.
+[//]: * 🚀  I'm currently working on [accounting-frontend-react](https://github.com/grzegorzxpatyk/accounting-frontend-react)
+* 🧠  I'm learning TypeScript, Next.js, and constantly revisiting JavaScript fundamentals.
 * 🤝  I'm open to collaborating on anything that's interesting. Open for new challenges, hit me up!
 * 📄  [My resume](https://grzegorzxpatyk.github.io/my-resume/) (done in React.js ⚛️ and deployed to GitHub Pages - ready to be printed out on A4 format 🖨️) 
 
