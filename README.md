@@ -7,7 +7,7 @@ Creative Front End Developer with more than two year experience in software deve
 * ✉️  You can contact me at [grzegorzxpatyk@gmail.com](mailto:grzegorzxpatyk@gmail.com)<!-- * 🚀  I'm currently working on [accounting-frontend-react](https://github.com/grzegorzxpatyk/accounting-frontend-react) -->
 * 🧠  I'm learning TypeScript, Next.js, and constantly revisiting JavaScript fundamentals.
 * 🤝  I'm open to collaborating on anything that's interesting. Open for new challenges, hit me up!
-* 📄  [My resume](https://grzegorzxpatyk.github.io/resume/) (created using SvelteKit and deployed to GitHub Pages - ready to be printed out on A4 format 🖨️) 
+* 📄  [My resume](https://grzegorzxpatyk.github.io/resume/) (created using SvelteKit and deployed to GitHub Pages) 
 
 ### Skills
 
