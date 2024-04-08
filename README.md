@@ -5,7 +5,7 @@ I am frontend developer. I specialize in crafting user interfaces and implementi
 
 * 🌍  I'm based in Cracow, PL
 * ✉️  You can contact me at [grzegorzxpatyk@gmail.com](mailto:grzegorzxpatyk@gmail.com)
-* 📄  [My portfolio](https://www.gpatyk.dev/) 
+* 📄  Check out my [portfolio](https://www.gpatyk.dev/) 
 * 🧠  I'm currently learning **Next.js**, and constantly revisiting JavaScript and TypeScript fundamentals, design patterns and good practices.
 * 🤝  I'm open to collaborating on anything that's interesting. Open for new challenges, hit me up!
 
