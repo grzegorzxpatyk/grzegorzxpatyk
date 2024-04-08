@@ -1,7 +1,7 @@
 Hi 👋 My name is Greg
 =====================
 
-I am dedicated and innovative **Frontend Developer** with a unique blend of skills derived from a background in architecture and passion for programming. Divergent thinker, infusing creativity and functionality into every project. My favorite aspect of web application development lies in crafting beautiful user interfaces, where I relish the opportunity to create aesthetic designs and implement captivating animations that elevate user experience to a new level. Passionate about design, architecture, snowboarding and dogs 🐶
+I am frontend developer. I specialize in crafting user interfaces and implementing designs that enhance web experiences. Outside of work, I enjoy woodworking, photography, and spending time with my dogs. 🐶
 
 * 🌍  I'm based in Cracow, PL
 * ✉️  You can contact me at [grzegorzxpatyk@gmail.com](mailto:grzegorzxpatyk@gmail.com)
